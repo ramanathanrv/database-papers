@@ -1,6 +1,7 @@
 # Relevant Reseach work
+
 **Leslie Lamport's paper on Byzantine Generals problem**
-Background into distributed consensus
+This paper gives a background into distributed consensus. This is one of the most fundamental problems in distributed systems due to the unreliable nature of the network.
 https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf
 
 **Google's Bigtable paper [2006]**
