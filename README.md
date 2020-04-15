@@ -34,8 +34,8 @@ Columnar stores and understanding the limitations of write\
 http://db.lcs.mit.edu/projects/cstore/VLDB06.pdf
 
 ## Interesting Implementations
-**Umbra: A Disk-Based System with In-Memory Performance**\ 
-ACID-compliant database built for in-memory analytics speed. For out-of-core processing it falls back gracefully to flash-based storage. Featuring fast code generation, low-latency query execution, and drop-in PostgreSQL compatibility. 
+**Umbra: A Disk-Based System with In-Memory Performance**\
+ACID-compliant database built for in-memory analytics speed. For out-of-core processing it falls back gracefully to flash-based storage. Featuring fast code generation, low-latency query execution, and drop-in PostgreSQL compatibility. \
 http://cidrdb.org/cidr2020/papers/p29-neumann-cidr20.pdf
 
 ## Online Course
